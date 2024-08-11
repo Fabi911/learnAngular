@@ -1,13 +1,11 @@
 span {
-  color: fuchsia;
-}
-.lar {
-  color: indigo;
+  background: linear-gradient(90deg, darkorchid,indigo);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-.gu {
-
-  color: darkorchid;
+app-new-box{
+  width:50%;
 }
 
 main {
